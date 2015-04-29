@@ -3,6 +3,8 @@ layout: blog
 category: blog
 published: true
 title: this is a new post
+tags: 
+  - apples
 ---
 
 ## A New Post
