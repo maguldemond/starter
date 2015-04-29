@@ -12,4 +12,5 @@ This is edit # 2.
 
 I'm going to add an image:
 
-![some carpet](/_posts/Style=style Name(I0309);Color=color-name 1(00121);Var=1.jpg)
+![driftwood, color num = 00520](/_posts/Driftwood00520.jpg)
+
